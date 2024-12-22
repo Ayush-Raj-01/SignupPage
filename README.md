@@ -13,6 +13,10 @@ Features
 
 ♦ Button Hover Effects: Subtle animations for better user interaction.
 
+# Technologies Used
+  
+  HTML5 CSS3
+
 # Clone this repository:
 
 git clone https://github.com/Ayush-Raj-01/SignupPage.git
