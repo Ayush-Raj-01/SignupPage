@@ -9,6 +9,6 @@ Interactive Forms: Includes placeholders, validation, and focus effects.
 "Remember Me" Option: Checkbox aligned for a clean layout.
 Button Hover Effects: Subtle animations for better user interaction.
 
-#Clone this repository:
+# Clone this repository:
 
 git clone https://github.com/Ayush-Raj-01/SignupPage.git
