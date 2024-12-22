@@ -1,0 +1,68 @@
+h2{
+    color: skyblue;
+    text-align: center;
+    margin-bottom: 35px;
+}
+/*form{
+    display: flex;
+    flex-direction: column;
+    }*/
+   #pass{
+    display:flex;
+    flex-direction: column;
+    margin-left: 100px;
+   }
+   
+    body{
+    background-image: url(Images/pexels-rovenimages-com-344613-949587.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin:0;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background:transparent;
+    backdrop-filter: blur(5px);
+    border-radius: 8px;
+    padding: 25px;
+    width: 400px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border: 2px solid rgba(225, 255,255, .2);
+    
+}
+input{
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgb(187, 113, 113);
+   background: transparent;
+    margin-right: 5px;
+    color: white;
+}
+input::placeholder{
+    color: white;
+}
+button{
+    background-color: #1389dd;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-left: 160px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #1e45bb;
+}
+.card:hover {
+    outline-color: rgba(39, 39, 40, 0.141);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+    transform: scale(1);
+}
+h5{
+    color: white;
+    text-align: center;
+}
