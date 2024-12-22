@@ -1,0 +1,72 @@
+h1{
+
+    margin-bottom: 35px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: url(Images/pexels-pixabay-531880.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card{
+    background:transparent;
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+    padding:25px;
+    width: 200px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border: 2px solid rgba(225, 255, 255, 0.076);
+
+}
+.card:hover {
+    outline-color: rgba(39, 39, 40, 0.141);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+    transform: scale(1);
+}
+input{
+    margin-bottom: 10px;
+    padding:5px;
+    border-radius: 25px;
+    border: 2px solid rgb(20, 213, 87);
+    font-family: Arial, Helvetica, sans-serif;
+}
+input::placeholder{
+    color: rgb(11, 11, 11);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cbox{
+    margin-right: 40px;
+    cursor:pointer;
+    color: cornflowerblue;
+}
+
+button{
+margin-left: 70px;
+margin-top: 15px;
+padding: 7px;
+border-radius: 18px;
+background-color: aqua;
+cursor: pointer;
+font-family: Arial, Helvetica, sans-serif;
+}
+button:hover{
+    background-color: rgb(25, 227, 126);
+}
+h5{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}

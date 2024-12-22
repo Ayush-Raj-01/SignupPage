@@ -1,7 +1,8 @@
-h2{
+h1{
     color: skyblue;
     text-align: center;
     margin-bottom: 35px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 /*form{
     display: flex;
@@ -42,9 +43,11 @@ input{
    background: transparent;
     margin-right: 5px;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 input::placeholder{
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 button{
     background-color: #1389dd;
@@ -53,6 +56,7 @@ button{
     border-radius: 8px;
     margin-left: 160px;
     cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
 }
 button:hover{
     background-color: #1e45bb;
@@ -65,4 +69,9 @@ button:hover{
 h5{
     color: white;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
 }
