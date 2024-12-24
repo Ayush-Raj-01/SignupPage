@@ -4,25 +4,21 @@ h1{
     margin-bottom: 35px;
     font-family: Arial, Helvetica, sans-serif;
 }
-/*form{
-    display: flex;
-    flex-direction: column;
-    }*/
-   .name{
 
+.name{
     display:flex;
     flex-direction:row;
    }
-   #pass{
+#pass{
     margin-left: 60px;
     margin-right: 60px;
    }
-   .id{
+.id{
     display:flex;
     flex-direction:row;
    }
    
-    body{
+body{
     background-image: url(Images/pexels-rovenimages-com-344613-949587.jpg);
     background-repeat: no-repeat;
     background-size: cover;
