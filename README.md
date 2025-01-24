@@ -15,7 +15,7 @@ Features
 
 # Technologies Used
   
-  HTML, CSS
+  HTML5, CSS
 
 # Clone this repository:
 
